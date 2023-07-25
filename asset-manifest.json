@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/dac/static/css/main.59fc5044.css",
+    "main.js": "/dac/static/js/main.39e6b14d.js",
+    "static/js/787.fd0d37ef.chunk.js": "/dac/static/js/787.fd0d37ef.chunk.js",
+    "static/media/location.png": "/dac/static/media/location.7f80d9f493cadc4d0402.png",
+    "static/media/mom_son_intro.jpg": "/dac/static/media/mom_son_intro.726bc193388b2dbcdb96.jpg",
+    "static/media/courthouse.jpg": "/dac/static/media/courthouse.5f556029117d12dbd138.jpg",
+    "static/media/mentors.jpg": "/dac/static/media/mentors.34aa2de92d625b8e8d62.jpg",
+    "static/media/attorneys.jpg": "/dac/static/media/attorneys.a45000a744146f19adb6.jpg",
+    "static/media/firstCall.jpg": "/dac/static/media/firstCall.2940c8c9a0e8fef35416.jpg",
+    "static/media/corridor.jpg": "/dac/static/media/corridor.9c0e318c4f777df8304f.jpg",
+    "static/media/psychiatrist.jpg": "/dac/static/media/psychiatrist.8bb58604e0ff361aa2c6.jpg",
+    "static/media/logo.png": "/dac/static/media/logo.0124caf16cae269c0f7c.png",
+    "static/media/news_graphic.png": "/dac/static/media/news_graphic.4404d3f312fda307d9b9.png",
+    "static/media/contact_right.png": "/dac/static/media/contact_right.83c4e9b4232899efa9d7.png",
+    "static/media/single_greenblue_bottom.png": "/dac/static/media/single_greenblue_bottom.072aaa045b6cb9072caa.png",
+    "static/media/approach_graphic_right.png": "/dac/static/media/approach_graphic_right.923d93e184ea43715b50.png",
+    "static/media/programs_graphic_right.png": "/dac/static/media/programs_graphic_right.7de4dc1e54d7cc51a614.png",
+    "static/media/single_goldblue_right.png": "/dac/static/media/single_goldblue_right.c825956a638bb639934d.png",
+    "static/media/programs_right_bottom.png": "/dac/static/media/programs_right_bottom.b6df673b9a3d2ce461e7.png",
+    "static/media/contact_left.png": "/dac/static/media/contact_left.e76780e436b0b1147c91.png",
+    "static/media/intro_right.png": "/dac/static/media/intro_right.e99d79da264f8a98a163.png",
+    "static/media/footer_left.png": "/dac/static/media/footer_left.a0989b102eb80d0adbf1.png",
+    "static/media/programs_graphic_bottom.png": "/dac/static/media/programs_graphic_bottom.011ef67c96979fa8cc20.png",
+    "static/media/intro_bottom.png": "/dac/static/media/intro_bottom.84e2d294076c399cdd80.png",
+    "static/media/programs_graphic_left.png": "/dac/static/media/programs_graphic_left.e7b24267462110801e6d.png",
+    "static/media/single_redblue_left.png": "/dac/static/media/single_redblue_left.159dd98d6b833dbf181d.png",
+    "static/media/single_redblue_right.png": "/dac/static/media/single_redblue_right.fb5b648b434e1725e2da.png",
+    "static/media/approach_graphic_left.png": "/dac/static/media/approach_graphic_left.15b1889a835dba0728c0.png",
+    "index.html": "/dac/index.html",
+    "main.59fc5044.css.map": "/dac/static/css/main.59fc5044.css.map",
+    "main.39e6b14d.js.map": "/dac/static/js/main.39e6b14d.js.map",
+    "787.fd0d37ef.chunk.js.map": "/dac/static/js/787.fd0d37ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59fc5044.css",
+    "static/js/main.39e6b14d.js"
+  ]
+}
