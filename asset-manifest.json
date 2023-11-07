@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dac/static/css/main.600fc5e5.css",
-    "main.js": "/dac/static/js/main.1ee8e615.js",
+    "main.css": "/dac/static/css/main.015640ab.css",
+    "main.js": "/dac/static/js/main.f868612c.js",
     "static/js/787.fd0d37ef.chunk.js": "/dac/static/js/787.fd0d37ef.chunk.js",
     "static/media/impact_mom_infant.jpg": "/dac/static/media/impact_mom_infant.94ac0bce3483c761756f.jpg",
     "static/media/location.png": "/dac/static/media/location.7f80d9f493cadc4d0402.png",
@@ -51,12 +51,12 @@
     "static/media/singlepage_right.png": "/dac/static/media/singlepage_right.328081d6b3766a396775.png",
     "static/media/footer_left.png": "/dac/static/media/footer_left.81e613b90dc4c6a4285a.png",
     "index.html": "/dac/index.html",
-    "main.600fc5e5.css.map": "/dac/static/css/main.600fc5e5.css.map",
-    "main.1ee8e615.js.map": "/dac/static/js/main.1ee8e615.js.map",
+    "main.015640ab.css.map": "/dac/static/css/main.015640ab.css.map",
+    "main.f868612c.js.map": "/dac/static/js/main.f868612c.js.map",
     "787.fd0d37ef.chunk.js.map": "/dac/static/js/787.fd0d37ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.600fc5e5.css",
-    "static/js/main.1ee8e615.js"
+    "static/css/main.015640ab.css",
+    "static/js/main.f868612c.js"
   ]
 }
