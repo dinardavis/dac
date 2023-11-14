@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dac/static/css/main.015640ab.css",
-    "main.js": "/dac/static/js/main.f868612c.js",
+    "main.css": "/dac/static/css/main.5afffee1.css",
+    "main.js": "/dac/static/js/main.35f7f2a4.js",
     "static/js/787.fd0d37ef.chunk.js": "/dac/static/js/787.fd0d37ef.chunk.js",
     "static/media/impact_mom_infant.jpg": "/dac/static/media/impact_mom_infant.94ac0bce3483c761756f.jpg",
     "static/media/location.png": "/dac/static/media/location.7f80d9f493cadc4d0402.png",
@@ -20,7 +20,6 @@
     "static/media/attorneys.jpg": "/dac/static/media/attorneys.a45000a744146f19adb6.jpg",
     "static/media/logo.png": "/dac/static/media/logo.f26cd80f203342593180.png",
     "static/media/firstCall.jpg": "/dac/static/media/firstCall.2940c8c9a0e8fef35416.jpg",
-    "static/media/committee.jpg": "/dac/static/media/committee.beaa94fea4e6ceb8d181.jpg",
     "static/media/corridor.jpg": "/dac/static/media/corridor.9c0e318c4f777df8304f.jpg",
     "static/media/psychiatrist.jpg": "/dac/static/media/psychiatrist.8bb58604e0ff361aa2c6.jpg",
     "static/media/impact_paintingnails.jpg": "/dac/static/media/impact_paintingnails.bca3441cfae3504460d1.jpg",
@@ -29,17 +28,18 @@
     "static/media/impact_father_son.jpg": "/dac/static/media/impact_father_son.436885159d0f0cec2b10.jpg",
     "static/media/notext_logo.png": "/dac/static/media/notext_logo.0124caf16cae269c0f7c.png",
     "static/media/news_graphic.png": "/dac/static/media/news_graphic.4404d3f312fda307d9b9.png",
+    "static/media/impact_presentation.jpg": "/dac/static/media/impact_presentation.906dd22e54021ba64969.jpg",
     "static/media/contact_right.png": "/dac/static/media/contact_right.83c4e9b4232899efa9d7.png",
     "static/media/attorney_silhouette.png": "/dac/static/media/attorney_silhouette.4dc845deec20fb53e96d.png",
-    "static/media/circle_graphic.png": "/dac/static/media/circle_graphic.461e3ceeeeba9699c3c4.png",
     "static/media/singlepage_bottom.png": "/dac/static/media/singlepage_bottom.a8c45cfe1ecba17712ef.png",
-    "static/media/mentor_silhouette.png": "/dac/static/media/mentor_silhouette.09f7071ba9effc0d8843.png",
     "static/media/singlepage_bottom_white.png": "/dac/static/media/singlepage_bottom_white.1fdaf71b322365f090b3.png",
     "static/media/socialworker_silhouette.png": "/dac/static/media/socialworker_silhouette.f83deb6fa85ed53fc4ef.png",
     "static/media/approach_graphic_right.png": "/dac/static/media/approach_graphic_right.923d93e184ea43715b50.png",
+    "static/media/circle_graphic.png": "/dac/static/media/circle_graphic.c0b618f6b9ea0de6621b.png",
     "static/media/contact_left.png": "/dac/static/media/contact_left.e76780e436b0b1147c91.png",
     "static/media/intro_right.png": "/dac/static/media/intro_right.e99d79da264f8a98a163.png",
     "static/media/intro_bottom.png": "/dac/static/media/intro_bottom.84e2d294076c399cdd80.png",
+    "static/media/mentor_silhouette.png": "/dac/static/media/mentor_silhouette.b05afb4e28ee52df2472.png",
     "static/media/singlepage_middle.png": "/dac/static/media/singlepage_middle.f4bff2f54653d8841a88.png",
     "static/media/whatwedo_left.png": "/dac/static/media/whatwedo_left.f4bff2f54653d8841a88.png",
     "static/media/singlepage_top.png": "/dac/static/media/singlepage_top.4efd4d348dac72ddbd7c.png",
@@ -51,12 +51,12 @@
     "static/media/singlepage_right.png": "/dac/static/media/singlepage_right.328081d6b3766a396775.png",
     "static/media/footer_left.png": "/dac/static/media/footer_left.81e613b90dc4c6a4285a.png",
     "index.html": "/dac/index.html",
-    "main.015640ab.css.map": "/dac/static/css/main.015640ab.css.map",
-    "main.f868612c.js.map": "/dac/static/js/main.f868612c.js.map",
+    "main.5afffee1.css.map": "/dac/static/css/main.5afffee1.css.map",
+    "main.35f7f2a4.js.map": "/dac/static/js/main.35f7f2a4.js.map",
     "787.fd0d37ef.chunk.js.map": "/dac/static/js/787.fd0d37ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.015640ab.css",
-    "static/js/main.f868612c.js"
+    "static/css/main.5afffee1.css",
+    "static/js/main.35f7f2a4.js"
   ]
 }
