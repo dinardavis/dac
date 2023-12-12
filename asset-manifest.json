@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/dac/static/css/main.5afffee1.css",
-    "main.js": "/dac/static/js/main.35f7f2a4.js",
+    "main.css": "/dac/static/css/main.53e8acb9.css",
+    "main.js": "/dac/static/js/main.665aaf2b.js",
     "static/js/787.fd0d37ef.chunk.js": "/dac/static/js/787.fd0d37ef.chunk.js",
+    "static/media/allstaff.jpg": "/dac/static/media/allstaff.6edea696f244a63dd280.jpg",
     "static/media/impact_mom_infant.jpg": "/dac/static/media/impact_mom_infant.94ac0bce3483c761756f.jpg",
     "static/media/location.png": "/dac/static/media/location.7f80d9f493cadc4d0402.png",
     "static/media/impact_mom_daughter.jpg": "/dac/static/media/impact_mom_daughter.b21826eadea721fd8c7b.jpg",
     "static/media/impact_stat_1.jpg": "/dac/static/media/impact_stat_1.478bf55564860d25e4cb.jpg",
     "static/media/mom_son_intro.jpg": "/dac/static/media/mom_son_intro.726bc193388b2dbcdb96.jpg",
     "static/media/dadandson.jpg": "/dac/static/media/dadandson.c9b370b36b911d102601.jpg",
+    "static/media/impact_presentation.png": "/dac/static/media/impact_presentation.f377e3e26cfb6a3b1434.png",
     "static/media/approach_family.jpg": "/dac/static/media/approach_family.30b620aee15708120550.jpg",
     "static/media/donate_family.png": "/dac/static/media/donate_family.eae627b53b837b3e987a.png",
-    "static/media/diversity_team.jpg": "/dac/static/media/diversity_team.a4b84c1335457725a3c3.jpg",
     "static/media/approach_mom.jpg": "/dac/static/media/approach_mom.659b41b21d459bbbeb41.jpg",
     "static/media/mentors.jpg": "/dac/static/media/mentors.34aa2de92d625b8e8d62.jpg",
     "static/media/diversity_tree.png": "/dac/static/media/diversity_tree.3528dd99cd45749b777d.png",
@@ -28,7 +29,6 @@
     "static/media/impact_father_son.jpg": "/dac/static/media/impact_father_son.436885159d0f0cec2b10.jpg",
     "static/media/notext_logo.png": "/dac/static/media/notext_logo.0124caf16cae269c0f7c.png",
     "static/media/news_graphic.png": "/dac/static/media/news_graphic.4404d3f312fda307d9b9.png",
-    "static/media/impact_presentation.jpg": "/dac/static/media/impact_presentation.906dd22e54021ba64969.jpg",
     "static/media/contact_right.png": "/dac/static/media/contact_right.83c4e9b4232899efa9d7.png",
     "static/media/attorney_silhouette.png": "/dac/static/media/attorney_silhouette.4dc845deec20fb53e96d.png",
     "static/media/singlepage_bottom.png": "/dac/static/media/singlepage_bottom.a8c45cfe1ecba17712ef.png",
@@ -51,12 +51,12 @@
     "static/media/singlepage_right.png": "/dac/static/media/singlepage_right.328081d6b3766a396775.png",
     "static/media/footer_left.png": "/dac/static/media/footer_left.81e613b90dc4c6a4285a.png",
     "index.html": "/dac/index.html",
-    "main.5afffee1.css.map": "/dac/static/css/main.5afffee1.css.map",
-    "main.35f7f2a4.js.map": "/dac/static/js/main.35f7f2a4.js.map",
+    "main.53e8acb9.css.map": "/dac/static/css/main.53e8acb9.css.map",
+    "main.665aaf2b.js.map": "/dac/static/js/main.665aaf2b.js.map",
     "787.fd0d37ef.chunk.js.map": "/dac/static/js/787.fd0d37ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5afffee1.css",
-    "static/js/main.35f7f2a4.js"
+    "static/css/main.53e8acb9.css",
+    "static/js/main.665aaf2b.js"
   ]
 }
