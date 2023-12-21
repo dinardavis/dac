@@ -1602,7 +1602,7 @@ select {
 }
 
 
-select.contactGroupField {
+/* select.contactGroupField {
   border: 2px solid hsl(var(--clr-primary));
   animation: border-pulsate 2.5s infinite;
 }
@@ -1611,7 +1611,7 @@ select.contactGroupField {
   0%   { border-color:hsl(var(--clr-primary)); }
   50%  { border-color:hsl(var(--clr-secondary)) }
   100% { border-color:sl(var(--clr-primary)); }
-}
+} */
 
 .success-popup {
   position: absolute;

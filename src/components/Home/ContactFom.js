@@ -13,7 +13,7 @@ export default function Contact() {
     }
   )
 
-  console.log(formData)
+  console.log(formData.contactGroup)
 
   const [formInputsValid, setFormInputsValid] = React.useState(
     {
@@ -24,7 +24,7 @@ export default function Contact() {
       message: false,
     }
   )
-  const [contactGroup, setContactGroup] = React.useState("")
+  const [contactGroupField, setContactGroupField] = React.useState("")
   const [firstNameField, setFirstNameField] = React.useState("")
   const [lastNameField, setLastNameField] = React.useState("")
   const [emailField, setEmailField] = React.useState("")
@@ -32,7 +32,7 @@ export default function Contact() {
 
 
   React.useEffect(() => {
-    setContactGroup(document.querySelector(".ContactGroup"))
+    setContactGroupField(document.querySelector(".contactGroupField"))
     setFirstNameField(document.querySelector(".firstNameField"))
     setLastNameField(document.querySelector(".lastNameField"))
     setEmailField(document.querySelector(".emailField"))
@@ -74,9 +74,12 @@ export default function Contact() {
   
   function handleSubmit(event) {
     event.preventDefault()
-    if(formInputsValid.firstName && formInputsValid.lastName && formInputsValid.email && formInputsValid.message) {
+    if(formInputsValid.contactGroup && formInputsValid.firstName && formInputsValid.lastName && formInputsValid.email && formInputsValid.message) {
       // navigate('/thankyou')
     } else {
+      if(contactGroupField.value.length === 0) {
+        contactGroupField.classList.add("input-error")
+      }
       if(firstNameField.value.length === 0) {
         firstNameField.classList.add("input-error")
       }
@@ -93,6 +96,18 @@ export default function Contact() {
   }
 
   function validateFormInputs() {
+    if(contactGroupField.value.length === 0 && document.activeElement === contactGroupField) {
+      contactGroupField.classList.add("input-error")
+      setFormInputsValid(prevFormInputsValid => {
+        return {...prevFormInputsValid, contactGroup: false}
+      })
+    } else if(contactGroupField.value.length > 0) {
+      contactGroupField.classList.remove("input-error")
+      setFormInputsValid(prevFormInputsValid => {
+        return {...prevFormInputsValid, firstName: true}
+      })
+    }
+
     if(firstNameField.value.length === 0 && document.activeElement === firstNameField) {
       firstNameField.classList.add("input-error")
       setFormInputsValid(prevFormInputsValid => {
