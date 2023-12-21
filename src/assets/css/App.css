@@ -1562,8 +1562,9 @@ select {
 }
 
 .contact-form input.input-error,
-.contact-form select.input-error {
-  border: 1.5px solid #e10000;
+.contact-form select.input-error,
+.contact-form textarea.input-error {
+  border: 1.5px solid #d20c0c;
   border-radius: .2rem;
 }
 
@@ -1577,10 +1578,6 @@ select {
   border: none;
   border-radius: .2rem;
   resize: none;
-}
-
-.contact-form textarea.input-error {
-  border: 1.5px solid #e10000;
 }
 
 .contact-btn {
