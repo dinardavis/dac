@@ -8,6 +8,7 @@ import { BsTelephoneFill } from 'react-icons/bs'
 import { MdEmail } from 'react-icons/md'
 import { BiSolidQuoteLeft } from 'react-icons/bi'
 import { BiSolidQuoteRight } from 'react-icons/bi'
+import FirstCallVideos from './FirstCallVideos'
 
 export default function Prevention() {
   return (
@@ -70,6 +71,9 @@ export default function Prevention() {
             <p className='copy'>Corridor utilizes an interdisciplinary team service model comprised of an <span className='copy-bold'>attorney</span>, a <span className='copy-bold'>social worker</span> and gender specific <span className='copy-bold'>mentor parents</span>. As an attorney led program, all communication between Corridor staff and Corridor clients is privileged and confidential – creating space for honest and open communication to proactively address concerns impacting the family and to create appropriate safety plans.</p>
            
             <p className='corridor section-subhead single-page-header'>What We Do:</p>
+            <div className='first-call-videos-container'> 
+              <FirstCallVideos />
+            </div>
             <div className='prevention-services-content'>
               <div>
                 <p className='copy-bold prevention-services-subhead'>Open Case Services:</p>
